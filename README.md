@@ -1,6 +1,9 @@
 # 👋 Hello, I'm Santiago Buitrago Rojas
 
-![Banner](#)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38755cfa-40df-433e-a09a-7c9b7817d7d6" width="600" height="300">
+</p>
+
 
 ---
 
