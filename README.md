@@ -41,5 +41,5 @@ I'm a Full Stack Developer passionate about technology and software development.
 
 📧 jsbuitragorojas@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/jsrojasbuitrago)  
-🔗 [Portfolio](https://yourportfolio.com)  
+<!--  🔗 [Portfolio](https://yourportfolio.com)   -->
 
